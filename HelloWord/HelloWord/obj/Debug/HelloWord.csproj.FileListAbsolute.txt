@@ -1,0 +1,6 @@
+C:\Users\akokarca\Project\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\akokarca\Project\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\akokarca\Project\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\akokarca\Project\HelloWord\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
+C:\Users\akokarca\Project\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\akokarca\Project\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
