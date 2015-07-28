@@ -1,1 +1,2 @@
 C:\Users\akokarca\Project\HelloWord\HelloWordTest\obj\Debug\HelloWordTest.csprojResolveAssemblyReference.cache
+C:\Users\akokarca\Clone\HelloWord\HelloWordTest\obj\Debug\HelloWordTest.csprojResolveAssemblyReference.cache
